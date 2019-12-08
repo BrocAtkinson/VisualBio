@@ -1,0 +1,23 @@
+#prof{
+justify-content: center;
+margin-right: 10%;
+margin-left: 10%;
+}
+#proj{
+    justify-content: center;
+    margin-right: 10%;
+    margin-left: 10%;
+    }
+.jumbotron {
+    background-image: url("./images/incline.png");
+    height: 300px;
+    background-size: cover;
+    margin-bottom: 0rem;
+    color: navy;
+    font-family: fantasy;
+    background-color: whitesmoke;
+  }
+#tabs{
+color: darkblue;
+background-color: whitesmoke;
+}
