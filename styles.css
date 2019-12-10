@@ -2,12 +2,23 @@
 justify-content: center;
 margin-right: 10%;
 margin-left: 10%;
+color: darkblue;
+background-color: whitesmoke;
 }
 #proj{
     justify-content: center;
     margin-right: 10%;
     margin-left: 10%;
+    color: darkblue;
+background-color: whitesmoke;
     }
+    #about{
+        justify-content: center;
+        margin-right: 10%;
+        margin-left: 10%;
+        color: darkblue;
+background-color: whitesmoke;
+        }
 .jumbotron {
     background-image: url("./images/incline.png");
     height: 300px;
@@ -18,6 +29,9 @@ margin-left: 10%;
     background-color: whitesmoke;
   }
 #tabs{
+  justify-content: center;
+margin-right: 10%;
+margin-left: 10%;
 color: darkblue;
 background-color: whitesmoke;
 }
