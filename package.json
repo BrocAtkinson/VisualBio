@@ -1,0 +1,19 @@
+{
+  "name": "visualbio",
+  "version": "1.0.0",
+  "description": "more a visual portfolio",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrocAtkinson/VisualBio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrocAtkinson/VisualBio/issues"
+  },
+  "homepage": "https://github.com/BrocAtkinson/VisualBio#readme"
+}
