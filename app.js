@@ -1,7 +1,7 @@
-// <script language="javascript" type="text/javascript">
-//   $(document).ready(function() {
-//     $('#trigger').click(function(){
-//       $("#dialog").dialog();
-//     }); 
-//   });                  
-// </script>
+
+$(document).ready(function() {
+    $('#btnShow').click(function(){
+        $("#dialog").dialog();
+        $("#frame").attr("src", "./images/Atkinson.B.pdf");
+    }) 
+});
