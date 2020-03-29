@@ -1,7 +1,2 @@
 
-$(document).ready(function() {
-    $('#btnShow').click(function(){
-        $("#dialog").dialog();
-        $("#frame").attr("src", "./images/Atkinson.B.pdf");
-    }) 
-});
+window.open("./images/Atkinson.B.pdf", "width=500,height=500,top=100,left=500")
